@@ -8,7 +8,7 @@
 
 - Having clustered them, people will be able to **identify easily where to go** as simple as looking at the **clustered neighborhoods map** which has been generated and identify simmilar neighborhoods by **colors**.
 
-- **Dashboard** for interactive exploring: [Link text Here](https://public.tableau.com/views/NYC-Toronto-Clustered-Neighborhoods/Dashboard5?:language=en-US&:display_count=n&:origin=viz_share_link)
+- Additional **Dashboard** for interactive exploring: [Link text Here](https://public.tableau.com/views/NYC-Toronto-Clustered-Neighborhoods/Dashboard5?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 1. Firstly, we need to determine in which **neighborhood** are we?
 2. Then, identify the **cluster** that will appear.
