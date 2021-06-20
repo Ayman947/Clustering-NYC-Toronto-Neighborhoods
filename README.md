@@ -2,7 +2,7 @@
 
 - This project approaches a commonly faced problem by people who have to **move** from **NYC** to **Toronto** or Vice versa.
 
-- The problem they face is that they have to move yet they prefer to move to a **similar place** to where they were, having the same **lifestyle**. (ex: similar places, similar venues, ...etc.)
+- The problem they face is that they have to move yet they prefer to move to a **similar place** to where they are, having the same **lifestyle**. (ex: similar places, similar venues, ...etc.)
 
 - So, we **clustered the neighborhoods** within the two cities according to their most common **venues** into **6 clusters**.
 
@@ -50,7 +50,7 @@
 
 - We applied the K-Means algorithm which is a **partitioning** **unsupervised** clustering ML model by which we cluster a given set of observations, neighborhoods in our model, according to their features, respective venues appearence likelihood in our model, into **non-overlaping** clusters without any **internal structure**.
 
-- We clustered the neighborhoods into 6 clusters ti minimize the within-cluster sum of squares (i.e WCSS) as reasonale as possible.
+- We clustered the neighborhoods into 6 clusters to minimize the within-cluster sum of squares (i.e WCSS) as reasonale as possible.
 ![WCSS](https://github.com/Ayman947/Clustering-NYC-Toronto-Neighborhoods/blob/main/Insights-Related-Files/WCSS.png)
 
 
