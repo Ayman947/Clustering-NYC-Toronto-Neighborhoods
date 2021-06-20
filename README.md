@@ -28,7 +28,8 @@
 | sklearn        | Machine learning algorithms           |
 
 
-## **Data Sources**
+
+# **Data Sources**
 
 - [**NYC**-data from **Json** file](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/labs/newyork_data.json)
 
@@ -37,7 +38,9 @@
 - [**Geospatial data from** **Geospatial_Coordinates.csv**](https://github.com/Ayman947/Clustering-NYC-Toronto-Neighborhoods/blob/main/Data-Sources-Files/Geospatial-Coordinates.csv)
 
 
-## **Data Cleaning** & **Preprocessing**
+
+
+# **Data Cleaning** & **Preprocessing**
 
 - Dropping unneeded columns.
 - Filtering Canada data to get only Toronto's. 
@@ -46,7 +49,9 @@
 - One-hot-Encoding venues for further processing (i.e building K-Means clusters)
 
 
-## **Modeling**
+
+
+# **Modeling**
 
 - We applied the K-Means algorithm which is a **partitioning** **unsupervised** clustering ML model by which we cluster a given set of observations, neighborhoods in our model, according to their features, respective venues appearence likelihood in our model, into **non-overlaping** clusters without any **internal structure**.
 
@@ -55,7 +60,9 @@
 
 
 
-## **Insights** 
+
+
+# **Insights** 
 
 | Cluster _no | NYC_Cluster_Volume | NYC_Cluster_%	| Toronto_Cluster_Volume | Toronto_Cluster_% |
 |---------------|-----------------|----------------|--------------------|------------------------|
@@ -73,3 +80,7 @@
 > In Toronto, there are no neighborhoods fall into neither the 2nd nor the 5th clusters.
 
 > (i.e If someone lives  either in the 2nd or the 5th clusters in NYC, he/she won't find a similar neighborhood to move to in Toronto.)
+
+
+
+# [**Results**](https://github.com/Ayman947/Clustering-NYC-Toronto-Neighborhoods/blob/main/NYC-Toronto-Venues-PostClustered.csv)
