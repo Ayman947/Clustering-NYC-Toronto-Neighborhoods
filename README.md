@@ -46,6 +46,15 @@
 - One-hot-Encoding venues for further processing (i.e building K-Means clusters)
 
 
+## **Modeling**
+
+- We applied the K-Means algorithm which is a **partitioning** **unsupervised** clustering ML model by which we cluster a given set of observations, neighborhoods in our model, according to their features, respective venues appearence likelihood in our model, into **non-overlaping** clusters without any **internal structure**.
+
+- We clustered the neighborhoods into 6 clusters ti minimize the within-cluster sum of squares (i.e WCSS) as reasonale as possible.
+-
+https://github.com/Ayman947/Clustering-NYC-Toronto-Neighborhoods/blob/main/Insights-Related-Files/WCSS.png
+
+
 ## **Insights** 
 
 | Cluster _no | NYC_Cluster_Volume | NYC_Cluster_%	| Toronto_Cluster_Volume | Toronto_Cluster_% |
