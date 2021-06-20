@@ -48,3 +48,19 @@
 
 ## **Insights** 
 
+| Cluster _no | NYC_Cluster_Volume | NYC_Cluster_%	| Toronto_Cluster_Volume | Toronto_Cluster_% |
+--------------------------------------------------------------------------------------------------
+|  1           |      8              |         2.62%         |           1       |      2.56% |
+|   2          |       1             |          0.33%        |           -       |        -           |
+|    3         |        106            |          34.75%	        |     35             |   89.74%   |
+|     4        |           3         |       0.98%	           |       2           |       5.13% |
+|      5       |            21        |       6.89%	           |        -          |      -            |
+|       6      |              166      |       54.43%	           |       1           |     2.56%              |
+
+> The vast majority of NYC's neighborhoods fall in the 6th & 3rd clusters.
+
+> The vast majority of Toronto's neighborhoods fall in the 3rd cluster which we gonna describe very soon.
+
+> In Toronto, there are no neighborhoods fall into neither the 2nd nor the 5th clusters.
+
+> (i.e If someone is living in either the 2nd or the 5th clusters in NYC, won't find a similar neighborhood to move to in Toronto.)
