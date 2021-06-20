@@ -10,10 +10,6 @@
 
 - [Additional **Dashboard** for interactive exploring:](https://public.tableau.com/views/NYC-Toronto-Clustered-Neighborhoods/Dashboard5?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-1. Firstly, we need to determine in which **neighborhood** are we?
-2. Then, identify the **cluster** that will appear.
-3. **Filter** by the cluster.
-4. Finally, we will determine easily the **similar** neighborhoods on the map and their common venues.
 
 
 # **Environment** & **Packages**
@@ -34,11 +30,11 @@
 
 ## **Data Sources**
 
-- **NYC**-data from **Json** file : [Link text Here](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/labs/newyork_data.json)
+- [**NYC**-data from **Json** file](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/labs/newyork_data.json)
 
-- **Toronto-data**, web scrapped from  : [Link text Here](https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M)
+- [**Toronto-data**, web scrapped from](https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M)
 
-- **Geospatial data from** **Geospatial_Coordinates.csv**: [Link text Here](https://github.com/Ayman947/Clustering-NYC-Toronto-Neighborhoods/blob/main/Data-Sources-Files/Geospatial-Coordinates.csv)
+- [**Geospatial data from** **Geospatial_Coordinates.csv**](https://github.com/Ayman947/Clustering-NYC-Toronto-Neighborhoods/blob/main/Data-Sources-Files/Geospatial-Coordinates.csv)
 
 
 ## **Data Cleaning** & **Preprocessing**
