@@ -63,4 +63,4 @@
 
 > In Toronto, there are no neighborhoods fall into neither the 2nd nor the 5th clusters.
 
-> (i.e If someone is living in either the 2nd or the 5th clusters in NYC, won't find a similar neighborhood to move to in Toronto.)
+> (i.e If someone lives  either in the 2nd or the 5th clusters in NYC, he/she won't find a similar neighborhood to move to in Toronto.)
