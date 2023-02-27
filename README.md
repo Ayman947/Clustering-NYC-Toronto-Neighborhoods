@@ -45,7 +45,7 @@
 - Dropping unneeded columns.
 - Filtering Canada data to get only Toronto's. 
 - Adding longs and lats to Toronto's data.
-- Appending both of Toronto's and NYC's data.
+- Appending both Toronto's and NYC's data.
 - One-hot-Encoding venues for further processing (i.e building K-Means clusters)
 
 
