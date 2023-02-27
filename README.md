@@ -55,7 +55,7 @@
 
 - We applied the K-Means algorithm which is a **partitioning** **unsupervised** clustering ML model by which we cluster a given set of observations, neighborhoods in our model, according to their features, respective venue appearance likelihood in our model, into **non-overlaping** clusters without any **internal structure**.
 
-- We clustered the neighborhoods into 6 clusters to minimize the within-cluster sum of squares (i.e WCSS) as reasonale as possible.
+- We clustered the neighborhoods into 6 clusters to minimize the within-cluster sum of squares (i.e WCSS) as reasonable as possible.
 ![WCSS](https://github.com/Ayman947/Clustering-NYC-Toronto-Neighborhoods/blob/main/Insights-Related-Files/WCSS.png)
 
 
